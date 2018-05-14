@@ -1,0 +1,5 @@
+{
+  "name": "thin_nginx",
+  "private": true,
+  "dependencies": {}
+}
